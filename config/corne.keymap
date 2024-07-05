@@ -79,10 +79,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&none  &kp GRAVE        &kp SQT             &kp LEFT_PARENTHESIS        &kp RIGHT_PARENTHESIS         &kp NON_US_BACKSLASH    &kp SLASH               &kp N7                    &kp N8            &kp N9                  &kp MINUS       &none
-&none  &mt LCTRL MINUS  &mt LEFT_ALT EQUAL  &mt LS(LCTRL) LEFT_BRACKET  &mt LEFT_SHIFT RIGHT_BRACKET  &mt LEFT_GUI SQT        &mt RIGHT_GUI ASTERISK  &mt RIGHT_SHIFT NUMBER_4  &mt RS(RCTRL) N5  &mt RIGHT_ALT NUMBER_6  &mt RCTRL PLUS  &none
-&none  &trans           &trans              &kp LEFT_BRACE              &kp RIGHT_BRACE               &trans                  &kp COMMA               &kp NUMBER_1              &kp NUMBER_2      &kp NUMBER_3            &kp PERIOD      &none
-                                            &kp ESCAPE                  &trans                        &kp BACKSPACE           &kp N0                  &kp SPACE                 &kp EQUAL
+&none  &kp GRAVE        &kp SQT             &kp LEFT_PARENTHESIS        &kp RIGHT_PARENTHESIS         &kp BACKSLASH       &kp SLASH               &kp N7                    &kp N8            &kp N9                  &kp MINUS       &none
+&none  &mt LCTRL MINUS  &mt LEFT_ALT EQUAL  &mt LS(LCTRL) LEFT_BRACKET  &mt LEFT_SHIFT RIGHT_BRACKET  &mt LEFT_GUI SQT    &mt RIGHT_GUI ASTERISK  &mt RIGHT_SHIFT NUMBER_4  &mt RS(RCTRL) N5  &mt RIGHT_ALT NUMBER_6  &mt RCTRL PLUS  &none
+&none  &trans           &trans              &kp LEFT_BRACE              &kp RIGHT_BRACE               &trans              &kp COMMA               &kp NUMBER_1              &kp NUMBER_2      &kp NUMBER_3            &kp PERIOD      &none
+                                            &kp ESCAPE                  &trans                        &kp BACKSPACE       &kp N0                  &kp SPACE                 &kp EQUAL
             >;
         };
 
